@@ -7,9 +7,7 @@ export default function App() {
   return (
     <View>
       Hello World.
-      <Text onTap={gotoAbout}>
-        <a>About</a>
-      </Text>
+      <Text onTap={gotoAbout}>About</Text>
     </View>
   )
 }
