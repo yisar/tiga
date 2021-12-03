@@ -4,6 +4,6 @@
     "dev": "tiga"
   },
   "dependencies": {
-    "next": "latest"
+    "tiga": "latest"
   }
 }
