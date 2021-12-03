@@ -1,8 +1,8 @@
-import Tiga from '@tiga/core'
+import Tiga from 'tiga.js/core'
 
-export default function App() {
+export default function IndexPage() {
   function gotoAbout() {
-    Tiga.navigateTo('/about')
+    Tiga.navigateTo({ url: '/about' })
   }
   return (
     <View>
