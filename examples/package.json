@@ -1,9 +1,0 @@
-{
-  "private": true,
-  "scripts": {
-    "dev": "tiga"
-  },
-  "dependencies": {
-    "tiga": "latest"
-  }
-}

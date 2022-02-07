@@ -1,2 +1,0 @@
-# tiga
-Faster taro alternative.
